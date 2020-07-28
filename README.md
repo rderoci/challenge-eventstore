@@ -1,11 +1,20 @@
-```sh
-mvnw compile quarkus:dev
-```
+## Available Scripts
 
-## Authors
+In the project directory, you can run:
+
+### `mvnw compile quarkus:dev`
+
+Runs the app in the development mode.<br />
+
+## Author
 
 * **Rômulo Deroci** - *Initial work*
 
+
+
+
+
+# THE CHALLENGE:
 
 # Implement EventStore
 
