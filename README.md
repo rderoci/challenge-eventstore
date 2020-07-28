@@ -1,3 +1,12 @@
+```sh
+mvnw compile quarkus:dev
+```
+
+## Authors
+
+* **Rômulo Deroci** - *Initial work*
+
+
 # Implement EventStore
 
 In this challenge, you will create a class that implements the `EventStore` 
